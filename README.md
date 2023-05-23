@@ -1,1 +1,2 @@
 # Guass_Pthread
+NK2023并行计算技术课程Pthread多线程作业—普通高斯消去法的Pthread并行化
