@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1690021323 source:d:\software\development environment\c++ program\pthread\pthread\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	<nmmintrin.h>
+
